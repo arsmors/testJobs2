@@ -9,6 +9,10 @@ media
 # Backup files #
 *.bak
 
+.DS_Store
+jobs/__pycache__
+scraping/__pycache__
+
 # If you are using PyCharm #
 .idea/**/workspace.xml
 .idea/**/tasks.xml
